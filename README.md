@@ -20,7 +20,7 @@ O projeto tem como objetivo produzir um algoritmo capaz de resolver diversos cá
 Clone o projeto
 
 ```bash
- https://github.com/feapolina/CalculadoraMatrizesJAVA/tree/main
+ git clone https://github.com/feapolina/CalculadoraMatrizesJAVA/tree/main
 ```
 
 Vá para o diretorio do projeto
